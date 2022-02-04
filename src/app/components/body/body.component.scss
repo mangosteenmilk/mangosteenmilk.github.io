@@ -1,0 +1,33 @@
+$font: sans-serif;
+
+
+.content {
+    max-width: auto;
+    margin: 30px;
+    background: white;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+
+.center{
+    display: flex;
+    font-family: $font;
+    text-align: justify;
+
+}
+
+img {
+    border-radius: 50%;
+    border-width: 6px;
+    border-style: double;
+    border-color: #bababa;
+  }
+
+tr{
+    margin: 30px;
+}
+
+.light-hr{
+    border-top: 1px solid #e0e0e0;
+}

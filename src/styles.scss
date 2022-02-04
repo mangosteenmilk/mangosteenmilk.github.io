@@ -1,0 +1,18 @@
+$bgcolor1: #00cc99 ;
+$bgcolor2: #009999;
+
+
+/* You can add global styles to this file, and also import other style files */
+body {
+    background: linear-gradient(to top, $bgcolor1 0%, $bgcolor2 100%);
+    margin: 0px;
+    min-height: 100%;
+    width: 100%;
+}
+
+html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
